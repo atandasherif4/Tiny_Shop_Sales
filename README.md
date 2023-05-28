@@ -54,6 +54,6 @@ The dataset provided consist of four tables namely customers,products, orders an
 10. ![](Output_Ten.png)
 
 
-NOTE: Queries can be found in the file named Tiny_Shop_Sales.sql or by clicking **VIEW CODE** above. 
+NOTE: Queries can be found in the file named Tiny_Shop_Sales.sql 
 
 
